@@ -1,2 +1,12 @@
 # Retail-sales-Dashboard
 I built this interactive Retail Sales Dashboard in Power BI to analyze key performance metrics and uncover actionable insights.
+
+1. West Region contributes the highest sales share (~28%).
+
+2. Clothing category drives the maximum profit, while Furniture shows the lowest margin.
+
+3. Monthly trend indicates peaks in May and September, likely due to festive season.
+
+4. Top Products: Tablet and sofa generate ~52% of total revenue.
+
+5. Overall Profit Margin: ≈ 15%.
